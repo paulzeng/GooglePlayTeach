@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85ad6560656430828c502259c8cf47692e123ec1">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_916270a504e82ecd0598c667fc2e231d4cd9775e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\learn-android\GooglePlayTeach\googlePlayTeach\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_c50b1e482d0f22936eab7e8e13002d95fc4e6bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043679b5c0c1c9ab344f939a98aa3cdecd93acc7">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b11270e1b2c6fc09518cbfaeae05eee2173ee8ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_84f45f478012159e87e78d9de7388d2111f85899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\exploded-aar\GooglePlayTeach\xUtilsLibrary\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8b30cc50ebafca34f109e7f52e6c1f0768f0b19">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_6ecdba1b53045a8c00bd8efe268c45916432c984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\learn-android\GooglePlayTeach\googlePlayTeach\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_cd17d326241b6d6a08c4f9f4a82851f94ea26bc5\classes.dex" />
+    </item>
+
+</items>

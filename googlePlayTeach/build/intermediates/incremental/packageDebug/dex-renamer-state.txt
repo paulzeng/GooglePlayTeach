@@ -1,0 +1,7 @@
+#Tue Feb 14 11:07:25 GMT+08:00 2017
+base.0=E\:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b11270e1b2c6fc09518cbfaeae05eee2173ee8ec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_916270a504e82ecd0598c667fc2e231d4cd9775e\\classes.dex
+base.1=E\:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_916270a504e82ecd0598c667fc2e231d4cd9775e
+file.0=E\:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b11270e1b2c6fc09518cbfaeae05eee2173ee8ec\\classes.dex

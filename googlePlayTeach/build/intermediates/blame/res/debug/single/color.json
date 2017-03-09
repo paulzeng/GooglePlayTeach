@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "E:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "E:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\build\\intermediates\\res\\merged\\debug\\color\\tab_text_color.xml",
+        "source": "E:\\learn-android\\GooglePlayTeach\\googlePlayTeach\\src\\main\\res\\color\\tab_text_color.xml"
+    }
+]
